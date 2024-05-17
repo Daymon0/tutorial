@@ -1,0 +1,59 @@
+.topnav-wrapper {
+    width: 70%;
+    height: 100%;
+    border: 1px solid white;
+}
+
+.topnav-wrapper-container-top {
+    border: 1px solid white;
+    justify-content: space-between;
+    display: flex;
+    width: 100%;
+    height: 10%;
+}
+
+.topnav-wrapper-container-top-logo {
+    width: 30%;
+    display: flex;
+    align-items: center;
+}
+
+.topnav-wrapper-container-top-navbar {
+    width: 70%;
+    display: flex;
+    justify-content: right;
+    align-items: center;
+    flex-direction: row;
+}
+
+.topnav-button {
+    color: white;
+    font-family: Oswald, sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    letter-spacing: .1em;
+    text-transform: uppercase;
+    padding: 2%;
+    cursor: pointer;
+}
+
+.topnav-button-click {
+    color: white;
+    font-weight: 700;
+    font-style: normal;
+    text-transform: uppercase;
+    font-size: 150%;
+    padding: 2%;
+    cursor: pointer;
+}
+
+.topnav-wrapper-top-title {
+    color: white;
+    font-family: Oswald, sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    letter-spacing: .1em;
+    text-transform: uppercase;
+    font-size: 150%;
+    padding: 5%;
+}
